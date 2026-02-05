@@ -37,4 +37,5 @@ Proyecto desarrollado para practicar:
 ## Autor
 
 Nicolas Arias
+
 Desarrollador Frontend Jr.
